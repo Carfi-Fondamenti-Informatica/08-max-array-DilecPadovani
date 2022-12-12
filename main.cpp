@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include <lib.h>
+#include "lib.h"
 
 int main()
 {
