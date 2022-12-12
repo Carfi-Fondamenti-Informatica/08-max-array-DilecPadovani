@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#541A11",
+        "titleBar.activeBackground": "#762418",
+        "titleBar.activeForeground": "#FEF9F8"
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp"
+    }
+}
