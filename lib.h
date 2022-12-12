@@ -1,1 +1,1 @@
-float max_in_array(float array[]);
+float max_in_array(float array[], int lenght);

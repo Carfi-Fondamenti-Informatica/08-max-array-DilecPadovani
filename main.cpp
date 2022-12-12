@@ -15,5 +15,5 @@ int main()
     cin >> list_number[i];
   }
 
-  cout << max_in_array(list_number);
+  cout << max_in_array(list_number, lenght_array);
 }
